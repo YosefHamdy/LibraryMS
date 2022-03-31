@@ -3,15 +3,15 @@ Library management system using Hibernate ,Java ,Oracle
 
 ## Classes
 
-User :' Which is Superclass have commen intialization of fields'
+User :' Which is the Superclass that have commen intialization of fields'
 
-Customer : 'Iherite the User Attributes '
+Customer : 'Inherit the User Attributes '
 
-Libraraian : 'Iherite the User Attributes '
+Libraraian : 'Inherit the User Attributes '
 
-Publisher :'Iherite the User Attributes '
+Publisher :'Inherit the User Attributes '
 
-App : 'Which is the main Contains cofiguration and all function and retrieving '
+App : 'Which is the main and Contains cofiguration and all function and retrieving '
 
 ### Relations Between classes
 
